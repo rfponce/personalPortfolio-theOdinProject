@@ -26,15 +26,16 @@ header
   color: #f9faf8;
 }
 
-nav
-{
-  font-size: 18px;
-  color: #e5e7eb;
-}
-
 ul
 {
   display: flex;
   list-style: none;
   gap: 15px;
+}
+
+li a
+{
+  text-decoration: none;
+  font-size: 18px;
+  color: #e5e7eb;
 }
