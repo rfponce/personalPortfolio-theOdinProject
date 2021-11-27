@@ -118,6 +118,17 @@ section
   border: #3882f6 5px solid;
 }
 
+#projects a
+{
+  text-decoration: none;
+  color: #1f2937;
+}
+
+#projects a:hover
+{
+  color: #3882f6;
+}
+
 #technologies
 {
   background-color: #e5e7eb;
