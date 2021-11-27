@@ -82,7 +82,7 @@ section
   color: #1f2937;
 }
 
-.projects-grid
+.grid
 {
   display: flex;
   flex-direction: row;
@@ -116,4 +116,10 @@ section
 #projects img:hover
 {
   border: #3882f6 5px solid;
+}
+
+#technologies
+{
+  background-color: #e5e7eb;
+  flex-direction: column;
 }
