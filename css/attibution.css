@@ -18,3 +18,8 @@ header, footer
   width: 100vw;
   padding: 2vw;
 }
+
+a
+{
+  color: #f9faf8;
+}
