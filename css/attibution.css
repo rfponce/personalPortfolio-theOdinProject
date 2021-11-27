@@ -19,7 +19,7 @@ header, footer
   padding: 2vw;
 }
 
-a
+header a, footer a
 {
   color: #f9faf8;
 }
