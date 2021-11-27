@@ -110,5 +110,10 @@ section
 
 #projects img
 {
+  border: #1f2937 5px solid;
+}
+
+#projects img:hover
+{
   border: #3882f6 5px solid;
 }
