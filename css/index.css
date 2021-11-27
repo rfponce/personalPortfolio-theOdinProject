@@ -60,9 +60,13 @@ section
   font-weight: bolder;
 }
 
-#home p
+.informative-text
 {
   font-size: 18px;
+}
+
+#home p
+{
   color: #e5e7eb;
 }
 
@@ -85,11 +89,6 @@ section
   margin: 30px;
   flex-wrap: wrap;
   gap: 10px;
-}
-
-#projects p
-{
-  font-size: 18px;
 }
 
 #projects p em
