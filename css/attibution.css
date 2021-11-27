@@ -23,3 +23,30 @@ header a, footer a
 {
   color: #f9faf8;
 }
+
+.attribution-card
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2vw;
+  border: #e5e7eb 5px solid;
+  margin: 2vw;
+  padding: 2vw;
+}
+
+img
+{
+  width: 256px;
+}
+
+ul
+{
+  list-style: circle;
+  padding: 2vw;
+}
+
+ul li
+{
+  font-size: x-large;
+}
