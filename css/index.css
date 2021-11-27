@@ -81,6 +81,11 @@ section
   color: #e5e7eb;
 }
 
+#home img
+{
+  width: 40vw;
+}
+
 #projects
 {
   flex-direction: column;
@@ -122,6 +127,7 @@ section
 #projects img
 {
   border: #1f2937 5px solid;
+  width: 10vw;
 }
 
 #projects img:hover
@@ -144,6 +150,11 @@ section
 {
   background-color: #e5e7eb;
   flex-direction: column;
+}
+
+#technologies img
+{
+  width: 10vw;
 }
 
 #contact
