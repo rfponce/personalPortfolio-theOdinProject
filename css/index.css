@@ -52,6 +52,17 @@ section
   height: auto;
 }
 
+.return-link
+{
+  background-color: #f9faf8;
+  color: #1f2937;
+  padding: 5px;
+  margin-top: 10vh;
+  border-radius: 15px;
+  text-decoration: none;
+  border: #e5e7eb 1px solid;
+}
+
 #home
 {
   background-color: #1f2937;
@@ -118,13 +129,13 @@ section
   border: #3882f6 5px solid;
 }
 
-#projects a
+#projects .grid a
 {
   text-decoration: none;
   color: #1f2937;
 }
 
-#projects a:hover
+#projects .grid a:hover
 {
   color: #3882f6;
 }
@@ -132,6 +143,12 @@ section
 #technologies
 {
   background-color: #e5e7eb;
+  flex-direction: column;
+}
+
+#contact
+{
+  display: flex;
   flex-direction: column;
 }
 
