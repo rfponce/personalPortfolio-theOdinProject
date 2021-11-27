@@ -16,7 +16,6 @@ header
   display: flex;
   justify-content: space-around;
   align-items: center;
-  
 }
 
 #logo
@@ -42,4 +41,23 @@ li a
 li a:hover
 {
   color: #3882f6;
+}
+
+#home
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  background-color: #1f2937;
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: bolder;
+  padding: 10vw;
+}
+
+#home p
+{
+  font-size: 18px;
+  color: #e5e7eb;
 }
