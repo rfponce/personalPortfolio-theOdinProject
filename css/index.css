@@ -43,17 +43,21 @@ li a:hover
   color: #3882f6;
 }
 
-#home
+section
 {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 10vw;
   height: auto;
+}
+
+#home
+{
   background-color: #1f2937;
   color: #f9faf8;
   font-size: 48px;
   font-weight: bolder;
-  padding: 10vw;
 }
 
 #home p
