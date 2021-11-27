@@ -65,3 +65,51 @@ section
   font-size: 18px;
   color: #e5e7eb;
 }
+
+#projects
+{
+  flex-direction: column;
+}
+
+#projects h2
+{
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+
+.projects-grid
+{
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+#projects p
+{
+  font-size: 18px;
+}
+
+#projects p em
+{
+  color: #f9faf8;
+  background-color: #1f2937;
+}
+
+.card
+{
+  width: 256px;
+  text-align: center;
+}
+
+.card img
+{
+  border-radius: 15px;
+}
+
+#projects img
+{
+  border: #3882f6 5px solid;
+}
