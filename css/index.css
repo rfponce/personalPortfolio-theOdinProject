@@ -156,6 +156,21 @@ section
   width: 25vw;
 }
 
+blockquote
+{
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+}
+
+#quote-author
+{
+  font-size: x-large;
+  font-weight: bold;
+  text-align: right;
+}
+
 #contact
 {
   display: flex;
