@@ -123,3 +123,14 @@ section
   background-color: #e5e7eb;
   flex-direction: column;
 }
+
+#call2action
+{
+  display: flex;
+  flex-direction: column;
+  background-color: #3882f6;
+  padding: 2vw;
+  align-items: center;
+  border-radius: 15px;
+  color: #f9faf8;
+}
