@@ -140,8 +140,26 @@ section
   display: flex;
   flex-direction: column;
   background-color: #3882f6;
-  padding: 2vw;
+  padding: 5vw;
   align-items: center;
   border-radius: 15px;
   color: #f9faf8;
+}
+
+#call2action .card
+{
+  width: auto;
+}
+
+#call2action a
+{
+  border: #f9faf8 5px solid;
+  border-radius: 15px;
+  text-decoration: none;
+  color: #f9faf8;
+}
+
+#call2action a:hover
+{
+  border-color: #1f2937;
 }
