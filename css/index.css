@@ -163,3 +163,23 @@ section
 {
   border-color: #1f2937;
 }
+
+footer
+{
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 2vw;
+  display: flex;
+  justify-content: space-around;
+}
+
+footer a
+{
+  text-decoration: none;
+  color: #f9faf8;
+}
+
+footer a:hover
+{
+  color: #3882f6;
+}
